@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+body{
+    background-color:rgb(235, 183, 86);
+}
+.one{
+    text-align: center;
+    color: rgb(69, 54, 43);
+    margin-top: 30px ;
+    font-size: 6rem;
+    font-weight: 900;
+    margin-bottom: 50px;
+}
+.react{
+    width: 120px;
+    border-radius: 50%;
+    
+}
+.angular{
+    width: 120px;
+    border-radius: 50%;
+    
+}
+.vue{
+    margin-top: 25px;
+    width: 140px;
+    border-radius: 50%;
+    border: 3.5px solid rgb(72, 150, 72);
+    margin-bottom: 10px;
+    
+}
+.angular{
+    margin-top: 25px;
+    width: 273px;
+    margin-bottom: 10px;
+    border-radius: 50%;
+    
+}
+.react{
+    margin-top: 25px;
+    width: 140px;
+    border-radius: 50%;
+    border: 3.5px solid rgb(85, 187, 215);
+    margin-bottom: 10px;
+    
+}
+.card{
+    background-color: white;
+    box-shadow: 0px 0px 10px grey;
+    width: 350px;
+    height: 400px;
+    text-align: center;
+    border-radius: 10px;
+
+}
+section{
+    display: flex;
+    gap: 35px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.v{
+padding-bottom: 10px;
+}
+p{
+    padding: 20px;
+    font-style: bold;
+}
+.a{
+    padding-bottom: 10px;
+  }
+.r{
+        padding-bottom: 10px;
+  }
